@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "firstName": "Лиза",
+        "secondName": "Танина",
+        "city": "Волгоград",
+        "age": 18
+    },
+    {
+        "id": 2,
+        "firstName": "Настя",
+        "secondName": "Булавина",
+        "city": "Воронеж",
+        "age": 32
+    },
+    {
+        "id": 3,
+        "firstName": "Егор",
+        "secondName": "Виденин",
+        "city": "Москва",
+        "age": 27
+    }
+]
